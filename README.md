@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @barbiRbiel
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning Javascript
+- 📫 Contact: https://www.linkedin.com/in/barbara-bielicki-/
